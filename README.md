@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="text-align:center"> Hi, I'm Enzo 👋 <h1>
+<h1> Hi, I'm Enzo 👋 <h1>
 
 ***
 
-### I'm just a student trying to do some cool stuff with data
+<p style="text-align:center"> I'm just a student trying to do some cool stuff with data </p>
 
 💬 Visit my portfolio : [https://www.datascienceportfol.io/enzoberreur](https://www.datascienceportfol.io/enzoberreur)
 
