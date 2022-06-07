@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **enzoberreur/enzoberreur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center> # Hi, I'm Enzo 👋 </center>
+
+***
+
+### I'm just a student trying to do some cool stuff with data
+
+💬 Visit my portfolio : [https://www.datascienceportfol.io/enzoberreur](https://www.datascienceportfol.io/enzoberreur)
+
+
