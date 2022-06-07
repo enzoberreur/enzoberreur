@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p> I'm just a student trying to do some cool stuff with data </p>
 
 📫 Visit my portfolio : [https://www.datascienceportfol.io/enzoberreur](https://www.datascienceportfol.io/enzoberreur)  <br>
-    or my Kaggle : [https://www.kaggle.com/enzoberreur](https://www.kaggle.com/enzoberreur)
+&emsp; or my Kaggle : [https://www.kaggle.com/enzoberreur](https://www.kaggle.com/enzoberreur)
 
 
 
