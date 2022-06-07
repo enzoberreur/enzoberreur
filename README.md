@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center> # Hi, I'm Enzo 👋 </center>
+# <center> Hi, I'm Enzo 👋 </center>
 
 ***
 
