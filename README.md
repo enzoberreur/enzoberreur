@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1> Hi, I'm Enzo 👋 </h1>
 
-<p> I'm just a student trying to do some cool stuff with data </p>
+<p style="text-align:center"> I'm just a student trying to do some cool stuff with data </p>
 
 💬 Visit my portfolio : [https://www.datascienceportfol.io/enzoberreur](https://www.datascienceportfol.io/enzoberreur)
 
